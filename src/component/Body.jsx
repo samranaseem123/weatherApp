@@ -50,7 +50,7 @@ function Body() {
 
       <div>
         <div className="environment">
-          <h1>smoke</h1>
+          <h1>smokee</h1>
         </div>
         <div className="lastContainer">
           {weatherData?.main?.feels_like && (
